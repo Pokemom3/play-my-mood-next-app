@@ -18,6 +18,9 @@ RESULTS PAGE: Background, corner PMP logo, Results table headings: Genre| Artist
 -Return filtered results
 Be able to select song wanted and play song
 -<nav>Navbar</nav>; <nav>HOMEPAGE</nav>, <nav>LOGIN</nav> <nav>SEARCH</nav>
+- ADD to FAVOURITES <link>
 
-
+FAVOURITES PAGE:
+Table that users can POST to 
+Users can also GET information from the table
 
