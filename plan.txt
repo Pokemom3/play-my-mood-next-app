@@ -1,0 +1,26 @@
+AIM:
+Users to input their daily mood and a genre
+A selection of songs is fetched from an API.
+Users can select a song to play
+Or select `random` after inputting their daily mood.
+
+
+Structure:
+LOGIN PAGE: Auth0 (coloured??)
+
+HOMEPAGE: Background img, corner PMP logo, Block <button>`Lets Get Started`</button>, Copyright FOOTER
+- animation: slide apart
+
+SEARCH PAGE: Background, <Header>SLOGAN</Header> Search input BOX, <button>SUBMIT</button>, <button>Surprise Me!</button>
+
+RESULTS PAGE: Background, corner PMP logo, Results table headings: Genre| Artist| Song Title| Duration
+- DROPDOWN LIST to filter results by genre: POP|HIPHOP|DISCO|RnB|Rock|CLASSICAL|DnB|Garage|Reggae|Afrobeat|House|Metal|Wordly
+-Return filtered results
+Be able to select song wanted and play song
+-<nav>Navbar</nav>; <nav>HOMEPAGE</nav>, <nav>LOGOUT</nav> <nav>SEARCH</nav>
+- ADD to FAVOURITES <link>
+
+FAVOURITES PAGE:
+Table that users can POST to 
+Users can also GET information from the table
+
